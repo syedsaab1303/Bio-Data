@@ -197,9 +197,10 @@ function App() {
             <Typography variant="h6">Name: Syed Tamzeed Ali</Typography>
             <Typography>Father's Name: Syed Sajjad Ali</Typography>
             <Typography>Father's Occupation: Retired Government Teacher</Typography>
+            <Typography>Mother's Name: Ayesha Ansari</Typography>
             <Typography>Mother's Occupation: Government Teacher</Typography>
             <Typography>D.O.B: 13 March 1998 (Age: 27)</Typography>
-            <Typography><strong>Occupation:</strong> Software Engineer</Typography>
+            <Typography>Occupation: Software Engineer</Typography>
             <Typography>Height: 5.9 ft</Typography>
             <Typography>Religion: Muslim</Typography>
             <Typography>
@@ -208,11 +209,13 @@ function App() {
             <Typography>City: Betul, Madhya Pradesh</Typography>
             <Typography>Siblings: One younger brother, no sister</Typography>
             <Typography mt={2}>
-              <strong>Partner Preferences:</strong> Practicing Muslimah aged 18 to 24 years,
+              Partner Preferences: Practicing Muslimah aged 18 to 24 years,
               height between 5.2 to 5.6 ft, who performs 5 daily prayers, observes parda,
               and possesses high moral and character values.
             </Typography>
-            <Typography mt={2}><strong>Contact:</strong> +91 9754558869</Typography>
+            <Typography mt={2}>Contact: +919754558869</Typography>
+            <Typography>Father's Contact: +919806461673</Typography>
+            <Typography>Mother's Contact: +919584101631 </Typography>
           </Box>
 
           {/* Download Button */}
